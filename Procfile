@@ -1,0 +1,1 @@
+worker: python maxwintv_bot.py
